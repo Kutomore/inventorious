@@ -16,7 +16,7 @@ gem 'devise'
 gem 'delayed_job'
 gem 'delayed_job_active_record'
 gem 'jquery-rails'
-gem 'jbuilder', '~> 2.5'
+gem 'jbuilder', '~> 2.11'
 
 group :development, :test do
   gem 'byebug', platform: :mri
